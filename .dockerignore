@@ -1,0 +1,33 @@
+# Version control
+.git
+.gitignore
+
+# Deno specific
+deno.lock
+
+# IDE and editor files
+.vscode
+.idea
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# Documentation
+README.md
+*.md
+
+# Build artifacts and cache
+dist/
+build/
+node_modules/ 
