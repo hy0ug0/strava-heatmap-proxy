@@ -1,4 +1,4 @@
-const STRAVA_HEATMAP_BASE_URL = "https://strava-heatmap.tiles.freemap.sk";
+const STRAVA_HEATMAP_BASE_URL = "https://heatmap-external-c.strava.com/tiles/";
 
 async function handler(req: Request): Promise<Response> {
   const startTime = Date.now();
