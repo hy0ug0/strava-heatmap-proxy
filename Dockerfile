@@ -1,4 +1,4 @@
-FROM denoland/deno:2.7.9
+FROM denoland/deno:2.7.14
 
 LABEL org.opencontainers.image.source=https://github.com/hy0ug0/strava-heatmap-proxy
 
